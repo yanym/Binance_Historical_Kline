@@ -26,4 +26,4 @@ Stop it
 -----------
 .. code:: bash
 
-    ctrl + z
+    kill -9 [Your PID]
